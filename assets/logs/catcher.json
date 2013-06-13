@@ -1,0 +1,36 @@
+{"level":"error","message":"undefined","timestamp":"2013-06-13T11:04:56.459Z"}
+{"level":"error","message":"undefined","timestamp":"2013-06-13T11:04:57.495Z"}
+{"level":"error","message":"undefined","timestamp":"2013-06-13T11:04:57.915Z"}
+{"level":"error","message":"undefined","timestamp":"2013-06-13T11:04:58.201Z"}
+{"level":"error","message":"undefined","timestamp":"2013-06-13T11:04:58.467Z"}
+{"level":"error","message":"undefined","timestamp":"2013-06-13T11:04:58.704Z"}
+{"level":"error","message":"undefined","timestamp":"2013-06-13T11:04:58.976Z"}
+{"level":"error","message":"undefined","timestamp":"2013-06-13T11:04:59.227Z"}
+{"level":"error","message":"undefined","timestamp":"2013-06-13T11:04:59.465Z"}
+{"level":"error","message":"undefined","timestamp":"2013-06-13T11:04:59.683Z"}
+{"level":"error","message":"undefined","timestamp":"2013-06-13T11:04:59.923Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:10.381Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:11.012Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:11.382Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:11.694Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:11.949Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:12.221Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:12.477Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:12.725Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:12.974Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:13.221Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:13.469Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:13.718Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:13.962Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:42.456Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:43.050Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:43.426Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:43.706Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:44.000Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:44.235Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:44.503Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:05:44.723Z"}
+{"{a:b}":"","level":"error","message":"","timestamp":"2013-06-13T11:09:25.094Z"}
+{"stack":"Error: Synchronous Request found\n    at XMLHttpRequest.open (http://localhost/mkcore/resources/scripts/app.js:42:26)\n    at Object.v.support.ajax.v.ajaxTransport.send (http://localhost/mkcore/resources/scripts/app/plugins/third_party/jquery_min.js:2:85843)\n    at Function.v.extend.ajax (http://localhost/mkcore/resources/scripts/app/plugins/third_party/jquery_min.js:2:83562)\n    at ModuleLoader.Get (http://localhost/mkcore/resources/scripts/app.js:346:11)\n    at new Controller (http://localhost/mkcore/resources/scripts/app.js:469:50)\n    at Object.App.Load.Controller (http://localhost/mkcore/resources/scripts/app.js:98:47)\n    at HTMLDocument.<anonymous> (http://localhost/mkcore/Nine+Inch+Nails:605:18)\n    at v.Callbacks.l (http://localhost/mkcore/resources/scripts/app/plugins/third_party/jquery_min.js:2:16996)\n    at Object.v.Callbacks.c.fireWith [as resolveWith] (http://localhost/mkcore/resources/scripts/app/plugins/third_party/jquery_min.js:2:17783)\n    at Function.v.extend.ready (http://localhost/mkcore/resources/scripts/app/plugins/third_party/jquery_min.js:2:12504)","url":"http://localhost/mkcore/Nine+Inch+Nails","ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1537.0 Safari/537.36","level":"error","message":"","timestamp":"2013-06-13T11:12:35.390Z"}
+{"stack":"Error: Synchronous Request found\n    at XMLHttpRequest.open (http://localhost/mkcore/resources/scripts/app.js:42:26)\n    at Object.v.support.ajax.v.ajaxTransport.send (http://localhost/mkcore/resources/scripts/app/plugins/third_party/jquery_min.js:2:85843)\n    at Function.v.extend.ajax (http://localhost/mkcore/resources/scripts/app/plugins/third_party/jquery_min.js:2:83562)\n    at ModuleLoader.Get (http://localhost/mkcore/resources/scripts/app.js:346:11)\n    at new Controller (http://localhost/mkcore/resources/scripts/app.js:469:50)\n    at Object.App.Load.Controller (http://localhost/mkcore/resources/scripts/app.js:98:47)\n    at HTMLAnchorElement.eval (eval at <anonymous> (http://localhost/mkcore/resources/scripts/app/plugins/third_party/jquery_min.js:2:14136), <anonymous>:42:14)\n    at HTMLAnchorElement.v.event.dispatch (http://localhost/mkcore/resources/scripts/app/plugins/third_party/jquery_min.js:2:38053)\n    at HTMLAnchorElement.v.event.add.o.handle.u (http://localhost/mkcore/resources/scripts/app/plugins/third_party/jquery_min.js:2:33916)","url":"http://localhost/mkcore/Nine+Inch+Nails","ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1537.0 Safari/537.36","level":"error","message":"","timestamp":"2013-06-13T11:13:01.821Z"}
+{"stack":"Error: Uncaught TypeError: Cannot read property 'currentPage' of undefined:http://localhost/mkcore/resources/scripts/app.js:936\n    at window.onerror (http://localhost/mkcore/resources/scripts/app.js:51:22)","url":"http://localhost/mkcore/Nine+Inch+Nails","ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1537.0 Safari/537.36","level":"error","message":"","timestamp":"2013-06-13T11:13:01.830Z"}
